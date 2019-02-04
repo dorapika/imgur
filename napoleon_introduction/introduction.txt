@@ -41,15 +41,46 @@
 [/quote]
 
 [quote]
-[size=200%][b][color=royalblue]Fate/Accel Zero Lap 2 时のある间に蔷薇を摘め[/color][/b][/size][h][/h]
+[size=200%][b][color=royalblue]Fate/Accel Zero Lap 2 時のある間に薔薇を摘め[/color][/b][/size][h][/h]
 除了Break后切嗣直接放宝具，以及剑刷有防御力提升以外，其他没有特别需要注意的事情。
 阵容：
-
+[img]https://dorapika.github.io/imgur/napoleon_introduction/screenshot/f_accel_zero.png[/img]
 第一回合孔明、梅林上场40颗星，所有人技能全开。之后换保罗上来送死，保罗开技一三。此时仑仑身上buff总共是：自身加攻37%+宝具20%+孔明、梅林加攻50%+红卡68%+爆伤174%+降防18%+固定伤害500，NAAEx攻击切嗣
 
 仑仑首A卡第3hit开始鞭尸，回收54.84NP，配合技三获得超过50颗星星，下回合必定爆击，切嗣宝具攻击保罗，保罗下场后二号孔明上场，技能全开
 
 此时仑仑身上buff总共是：自身加攻17%+孔明、梅林、战斗服加攻110%+红卡68%+爆伤124%+降防18%+固定伤害1000。其实孔明宝具->仑仑宝具->仑仑任一张卡爆击都可以收掉切嗣，这里为了做效果选择NQAEx，尾A卡第3hit就overkill了
 
-完整影片：
+[url=https://www.bilibili.com/video/av42601949/?p=1]完整视频[/url]
 [/quote]
+
+[quote]
+[size=200%][b][color=royalblue]Fate/Accel Zero Lap 2 バトル・イン・ニューヨーク2018	フィナーレ 金色のメトロポリス[/color][/b][/size][h][/h]
+阵容：
+[img]https://dorapika.github.io/imgur/napoleon_introduction/screenshot/gilgamesh.png[/img]
+
+这关有固定的击杀顺序，不可直接宝具三连轰。敌方嫁王死去后会给予敌方全体(含后备)三次根性，因此一定要摆在最后处理。前面四只的击杀顺序为保罗→比利→杰基尔→海盗玛莉。由于不可能全用拿破仑一人的爆发力处理四只，这里以布姊当副手，两人都爆击合力打掉四人。后排的小贝在最后上来用宝具把剑职的安娜打残顺便叠OC。
+
+[url=https://www.bilibili.com/video/av42601949/?p=2]完整视频[/url]
+[/quote]
+
+[quote]
+[size=200%][b][color=royalblue]復刻：姫路城大決戦	罪と罰 ～散華すべきは白い髭～[/color][/b][/size][h][/h]
+阵容：
+[img]https://dorapika.github.io/imgur/napoleon_introduction/screenshot/halloween_himejijou.png[/img]
+
+这关应该是史上最多花式三回的高难度了，各种绿卡CBA屌虐教授。唯一需要注意的点是教授每次break都有防御上升。但因为仑仑宝具无视防御一回合的关系，比起其他全体红卡宝具来说通关压力会小一点。
+
+[url=https://www.bilibili.com/video/av42601949/?p=3]完整视频[/url]
+[/quote]
+
+[quote]
+[size=200%][b][color=royalblue]神秘の国のONILAND	護法少女スペシャルヒーローショー[/color][/b][/size][h][/h]
+阵容：
+[img]https://dorapika.github.io/imgur/napoleon_introduction/screenshot/halloween_oniland.png[/img]
+
+第一次break后志度内会防御力提升，其他没什么需要注意的事情。术酒吞和志度内都有神性，拿破仑打起来非常轻松。另外可善用术职NP补正1.2的特性多鞭尸回NP。
+
+[url=https://www.bilibili.com/video/av42601949/?p=4]完整视频[/url]
+[/quote]
+
