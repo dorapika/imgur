@@ -1,7 +1,7 @@
 [quote][img]https://dorapika.github.io/imgur/napoleon_introduction/banner.jpg[/img][/quote]
 [quote]
 [size=200%][b][color=royalblue]前言[/color][/b][/size][h][/h]
-拿破仑在持有角色通关的讨论度，与金闪、特斯拉和伊丝塔相比较低，因为以弓职来说，三位同行的技能和宝具实在开太多外挂了，但其实拿破仑自身的技能和宝具在高难度竞速仍有发挥的空间！为了证明我对他的喜爱，决定做这个合集，把每次用拿破仑高难度竞速通关记录下来。看到有人把我在youtube一些拿破仑3T高难的影片搬到bilibili去，几经考虑还是自己在B站存这些真爱通关纪录吧，也不用劳烦别人还要特别搬来了
+拿破仑在持有角色通关的讨论度，与闪闪、特斯拉和伊丝塔相比较低，因为以弓职来说，三位同行的技能和宝具实在开太多外挂了，但其实拿破仑自身的技能和宝具在高难度竞速仍有发挥的空间！为了证明我对他的喜爱，决定做这个合集，把每次用拿破仑高难度竞速通关记录下来。看到有人把我在youtube一些拿破仑3T高难的影片搬到bilibili去，几经考虑还是自己在B站存这些真爱通关纪录吧，也不用劳烦别人还要特别搬来了
 [/quote]
 [quote]
 [size=200%][b][color=royalblue]技能组[/color][/b][/size][h][/h]
@@ -79,8 +79,75 @@
 阵容：
 [img]https://dorapika.github.io/imgur/napoleon_introduction/screenshot/halloween_oniland.png[/img]
 
-第一次break后志度内会防御力提升，其他没什么需要注意的事情。术酒吞和志度内都有神性，拿破仑打起来非常轻松。另外可善用术职NP补正1.2的特性多鞭尸回NP。
+第一次break后志度内会防御力提升，其他没什么需要注意的事情。术酒吞和志度内都有神性，拿破仑打起来非常轻松。另外可善用术阶NP补正1.2的特性多鞭尸回NP。
 
 [url=https://www.bilibili.com/video/av42601949/?p=4]完整视频[/url]
 [/quote]
 
+[quote]
+[size=200%][b][color=royalblue]復刻：冥界のメリークリスマス	妖精乱舞[/color][/b][/size][h][/h]
+阵容：
+[img]https://dorapika.github.io/imgur/napoleon_introduction/screenshot/chirstmas_meikai.png[/img]
+
+保罗与人马老师等级越低越好，增加下场的机会。因为只有一张アウトレイジ，另一张使用看板娘，但会增加下场难度。 cost113的最佳情况时，梅林可以装CCC时赠送的四星礼装始まりの予感，每回合给星三颗。这里省cost，礼装每回合只给一颗
+
+这次的高难度关卡是逆克制，花了满久时间规划伤害如何分配。最后非不得已用上刻印(多亏黑枪是龙属性)，然后重新培养一个40级保罗。事实证明真的有效，保罗终于能被梅林一掌拍死，且即使有刻印，好几十次伤害都只差几百几千而已，不敢想像没刻印的难度。
+
+[color=red]从有意识开始计算进场次数到成功大概有650场吧[/color]，其中能迈进第二回合约25场，能迈进第三回合约15场。有两次最后发到NQBEx，但还是没救
+
+[url=https://www.bilibili.com/video/av42601949/?p=5]完整视频[/url]
+[/quote]
+
+[quote]
+[size=200%][b][color=royalblue]ホーリー・サンバ・ナイト	死闘！七人の悪魔サーヴァント編[/color][/b][/size][h][/h]
+阵容：
+[img]https://dorapika.github.io/imgur/napoleon_introduction/screenshot/chirstmas_samba.png[/img]
+
+这次只有中血量的七人，所以只要注意让第二回合仑仑鞭尸回到NP100即可
+
+T1: 凯隆上场后全体50颗星，爆击打死牛牛，泳装茨木能砍就砍。由于伤害会溢出，孔明的技二技三可以先扣着，作为第二回鞭尸时NP不够的补充。凯隆下场后换上美迪亚
+
+T2: 美迪亚解仑仑弱体，顺便加NP率，补上20颗星。本回的宝具伤害要让拿破仑的宝具能收掉梅菲斯特和教授，但泳装茨木不能打死。视情况开战斗服加攻或仑仑技二
+NQAEx，后两张卡鞭尸能回到80
+NAAEx，后两张卡鞭尸能回到100
+(为了这么刚好的数字，忍痛临时从商店换了结晶让C妈吃......)
+
+T3: 宝具随便收掉
+
+[url=https://www.bilibili.com/video/av42601949/?p=6]完整视频[/url]
+[/quote]
+
+[quote]
+[size=200%][b][color=royalblue]雀のお宿の活動日誌	吶喊バトル 人理で一番強い猿！[/color][/b][/size][h][/h]
+阵容：
+[img]https://dorapika.github.io/imgur/napoleon_introduction/screenshot/suzume.png[/img]
+
+枪、剑、杀三只猴子血量各为149298、148709、147849，分别分别有绿蓝卡抗性、红绿卡抗性、红蓝卡抗性，皆为90%。猴子用梅林英雄做成+凯隆的爆伤强力辗压即可
+
+麻雀第一条血453700、第二条血600280。猴子与麻雀同在场上时，猴子会帮麻雀上buff(有可能加气格)
+
+T1 有发到仑仑卡片，把剑职猴子打死
+T2 仑仑须串Ex并有一张蓝卡鞭尸，然后赌麻雀会砍哪个倒楣的家伙
+T3 递补上来的孔明又把NP充满惹
+
+须注意麻雀在Break后会加无敌贯通三回合并直接开宝具，但可善用此特性让炮灰下场。
+仑仑做得到的，一些闪闪伊丝塔们应该也都可，就等各位尝试了。
+
+[url=https://www.bilibili.com/video/av42601949/?p=7]完整视频[/url]
+[/quote]
+
+[quote]
+[size=200%][b][color=royalblue]復刻：魔法少女紀行	プリズマ☆ライブ！[/color][/b][/size][h][/h]
+阵容：
+[img]https://dorapika.github.io/imgur/napoleon_introduction/screenshot/illya.png[/img]
+
+由于男性没有特攻礼装可以使用，这次的伤害要求变得严苛一点，但幸好只有伊莉亚是三条血。
+
+T1: 梅林的幻术会增加保罗下场难度，尽量不要使用。本回需要一张仑仑红卡和其他卡，以及一张孔明的蓝卡。以BAX的方式全爆击打伊莉亚，仑仑孔明双双回到100NP
+
+T2: 孔明宝具->仑仑宝具->仑仑蓝卡爆击鞭尸，仑仑回到56NP。祈祷孔明的宝具不要麻痹伊莉亚，仑仑也不要被伊莉亚宝具砸死
+
+T3: 二号孔明上来补充NP到100，由于美游与小黑高机率残血，须有一张仑仑红卡爆击和队友的另一张红卡爆击来解决他们。
+
+[url=https://www.bilibili.com/video/av42601949/?p=8]完整视频[/url]
+[/quote]
