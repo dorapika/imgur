@@ -1,0 +1,169 @@
+﻿[quote][img]https://dorapika.github.io/imgur/kiara_introduction/banner.jpg[/img][/quote]
+[quote]
+[size=200%][b][color=royalblue]前言[/color][/b][/size][h][/h]
+第二次技能强化后，杀生院几乎具备了大部分攻克高难度关卡的要素：无敌、无敌贯通、无视防御、强化解除，加上自身克制骑术杀狂裁外六职，除了碰到上三职蓝字是最大弱点外，没有混杂太多剑弓枪的高难关卡都可以带她出场！
+[/quote]
+[quote]
+[size=200%][b][color=royalblue]技能组[/color][/b][/size][h][/h]
+三个技能在高难时通常使用时机如下：
+[list]
+[*]千里眼（獣）：视为单回合的蓝卡buff，NP不足或者要给予最后一击时才会开启
+[*]五停心観：三回合降防与解强化，几乎上场就可以开
+[*]女神変生：无敌一回合、NP率+爆击威力提升一回合，场上有三人时作为宝具连发用，或者伤害不足需要靠爆伤时用
+[/list]
+[/quote]
+[quote]
+[size=200%][b][color=royalblue]宝具特性[/color][/b][/size][h][/h]
+[list]
+[*]对自身赋予无敌贯通状态+对敌全体的强力防御力无视攻击：简而言之，对面所有的buff在杀生院看来完全是张白纸，一戳就破
+[/list]
+[/quote]
+[quote]
+[size=200%][b][color=royalblue]主角院院的状态[/color][/b][/size][h][/h]
+[img]https://dorapika.github.io/imgur/kiara_introduction/status1.png[/img]
+[img]https://dorapika.github.io/imgur/kiara_introduction/status2.png[/img]
+[img]https://dorapika.github.io/imgur/kiara_introduction/status3.png[/img]
+[/quote]
+[quote]
+[size=200%][b][color=royalblue]目前已挑战的关卡[/color][/b][/size][h][/h]
+[list]
+[*]神秘の国のONILAND 高難易度 護法少女スペシャルヒーローショー
+[*]ボイス＆レター･これくしょん！ 高難易度 司書のお仕事
+[*]復刻版:深海電脳楽土 終幕 刻を裂くパラディオン ヘブンズホール
+[*]旧き蜘蛛は懐古と共に糸を紡ぐ 高難易度 ライヘンバッハの再戦
+[*]徳川回天迷宫 大奥 回想战 大奥
+[*]徳川廻天迷宮大奥 高難易度 寵愛は誰の手に
+[*]復刻帝都聖杯奇譚 高難易度 天魔轟臨
+[/list]
+[/quote]
+
+[quote]
+[size=200%][b][color=royalblue]神秘の国のONILAND 高難易度 護法少女スペシャルヒーローショー[/color][/b][/size][h][/h]
+阵容：
+[img]https://dorapika.github.io/imgur/kiara_introduction/screenshot/halloween_oniland.png[/img]
+
+最后的丝卡蒂是保险，影片中C狐意外没有下场，所以实际上没用到丝卡蒂的50NP和降防
+
+--
+
+第一回合：孔明术闪技能全放，杀生院技一，术闪换海姆，海姆技能给院院。院院发到一张爆击蓝卡即可回满NP
+
+第二回合：霍恩海姆阵亡换C狐，C狐技三给杀生院，院院发到一张爆击蓝卡即可回满NP
+
+第三回合：杀生院技能全放，战斗服技能，有串到Ex且一张蓝卡爆击即可
+
+
+宝具连发关键是霍恩海姆的全体蓝魔放搭配霸道黄金律，杀生院的NP其实是稍微被削过的，如果连杀生院的蓝卡都能一次打满的话，其他蓝宝具且多蓝卡的从者应该不难模仿这个套路。或许可以试试看文西，宝具和杀生院一样自带无视防御
+
+其实稍加观察主攻手以外的辅助，便可以发现这其实是嫁闪系统的简化三回版(志度内无法把嫁王打下场，于是换成了C狐) 用发牌的不稳定换取速攻
+[url=https://www.bilibili.com/video/av50552754/?p=1]Bilibili[/url]
+[url=https://youtu.be/BkrXkA3dWkI]youtube[/url]
+[/quote]
+
+[quote]
+[size=200%][b][color=royalblue]ボイス＆レター･これくしょん！ 高難易度 司書のお仕事[/color][/b][/size][h][/h]
+阵容：
+[img]https://dorapika.github.io/imgur/kiara_introduction/screenshot/valentine2019.png[/img]
+
+紫式部血量分别为320,825和450,438，在打倒书本以前紫式部会有80%的攻击耐性，用全体宝具几乎不可能直接打死。另外书本「源氏物语」退场时会给我方全体女性一个回合结束时魅惑的状态，用女性主攻手务必注意，可以用刻印八叶の镜或白き器の令印，在宝具后把弱体解掉或预防无法行动
+
+在这里杀生院都装了两个刻印增加发牌发到的机率。
+
+T1: 需有一张杀生院红卡和蓝卡爆击鞭尸，且需要解掉弱体
+
+T2: 需有杀生院一张红卡爆击并串到Ex
+[url=https://www.bilibili.com/video/av50552754/?p=2]Bilibili[/url]
+[url=https://youtu.be/R1TBn5YC2sQ]youtube[/url]
+[/quote]
+
+[quote]
+[size=200%][b][color=royalblue]復刻版:深海電脳楽土 終幕 刻を裂くパラディオン ヘブンズホール[/color][/b][/size][h][/h]
+阵容：
+[img]https://dorapika.github.io/imgur/kiara_introduction/screenshot/CCC.png[/img]
+
+虽然这个关卡的小杀生院已经不知道被多少人虐杀三回了，不过好像还没有自己打自己的版本，也趁活动延长干脆把所有爱角都录一次高难了，由于只有宝二百级，配卡要求严格
+
+T1: 需有院院一张红卡蓝卡，BNAEx皆爆击后NP回满。凯隆的技二可以视星星情况不要开，留给T2。这里对面杀生院的爆击几乎无法让凯隆下场，因此T1发卡失败就可以直接重来了
+
+T2: 理想也是发到各一张红卡蓝卡，BNAEx皆爆击后NP回超过50。影片里只有一张红卡打死
+
+T3: 理想是孔明上来NP补满，再一发宝具。影片里是发到BAB三张卡，双B卡爆击结束
+[url=https://www.bilibili.com/video/av45457600]Bilibili[/url]
+[url=https://youtu.be/sMz7d5Z_2XM]youtube[/url]
+[url=https://www.bilibili.com/video/av50552754/?p=3]其他完整视频[/url]
+[/quote]
+
+[quote]
+[size=200%][b][color=royalblue]旧き蜘蛛は懐古と共に糸を紡ぐ 高難易度 ライヘンバッハの再戦[/color][/b][/size][h][/h]
+阵容：
+[img]https://dorapika.github.io/imgur/kiara_introduction/screenshot/furukikumo.png[/img]
+
+拿对阵容又是一个用膝盖就会过的高难，不过我没有顶级配件的杀生院（满突的看板娘和全吃满金狗），四回应该是个人队伍的极限了，而且难得第一次进关卡就过
+
+T1: 杀生院技二降防，梅林全丢技能，换BB上来锁卡。侦探宝具->院院红卡->院院红卡
+
+T2: 麻痹对面，侦探红卡->院院红卡->院院红卡，理想上不要开那个战斗服加攻
+
+T3: 杀生院技三加爆击伤害，侦探红卡->院院红卡->院院红卡
+
+T4: 残血10000随面收
+[url=https://www.bilibili.com/video/av50552754/?p=4]Bilibili[/url]
+[url=https://youtu.be/S81UR2nVtDc]youtube[/url]
+[/quote]
+
+[quote]
+[size=200%][b][color=royalblue]徳川廻天迷宮大奥 回想戦 大奥[/color][/b][/size][h][/h]
+阵容：
+[img]https://dorapika.github.io/imgur/kiara_introduction/screenshot/ooku.png[/img]
+
+作为这次的活动关键之一，怎么可以错过杀生院自己的主场呢！
+
+T1: 水BB锁卡，安徒生技三供星，杀生院技二降防。因为次回合攻击强化解除，不要开任何加攻，BXXEx爆击过。由于杀生院打星不佳，若有Q卡可尽量放
+
+T2: 同前一回合，安徒生技一可以在此回合放，BXBEx爆击过
+
+T3: 杀生院技三加爆伤，BXBEx爆击过，水BB吃宝具下场
+
+T4: C狐加上buff，所有印笼技能全放，宝具过关
+[url=https://www.bilibili.com/video/av48185694]Bilibili[/url]
+[url=https://youtu.be/nh11thJ3uYs]youtube[/url]
+[url=https://www.bilibili.com/video/av50552754/?p=5]其他完整视频[/url]
+[/quote]
+
+[quote]
+[size=200%][b][color=royalblue]徳川廻天迷宮大奥 高難易度 寵愛は誰の手に[/color][/b][/size][h][/h]
+阵容：
+[img]https://dorapika.github.io/imgur/kiara_introduction/screenshot/ooku2.png[/img]
+
+这次真正的高难度明显是做球给杀生院(Break前全部下四骑)和伽摩(Break后全部AE) 不过还是全权交给院院负责吧！
+
+T1: 莎翁buff放一放，两只阿拉什快乐烟火，三人下场吃便当
+
+T2: 杀生院需要发到一张红卡及蓝卡，且不可多出其他的院院蓝卡。将印笼技能全放，杀生院技二技三扣着，C狐和海姆buff放完。 NBAEx鞭尸清姬回满NP
+
+T3: 杀生院需要发到一张蓝卡(A)，且有队友的一张蓝卡(a)，这里施放院院技二技三，NaA打刑部姬，院院A卡爆击回满需超过150NP，作为刑部姬扣50NP的缓冲
+
+T4: 杀生院需要发到一张卡，宝具后打掉残血的刑部姬
+[url=https://www.bilibili.com/video/av48307587]Bilibili[/url]
+[url=https://youtu.be/lML-d-HBSdU]youtube[/url]
+[url=https://www.bilibili.com/video/av50552754/?p=6]其他完整视频[/url]
+[/quote]
+
+[quote]
+[size=200%][b][color=royalblue]復刻帝都聖杯奇譚 高難易度 天魔轟臨[/color][/b][/size][h][/h]
+阵容：
+[img]https://dorapika.github.io/imgur/kiara_introduction/screenshot/teito.png[/img]
+
+杀生院的话甚至用不到四大辅助，以水BB固定卡牌直接爆击打掉。理论上以下套路所有有克职宝具伤害的爱角都能照抄
+
+T1: 玛尔大强化解除，布姊宝具戳死第一条血。布姊在本次高难的用处：增加全体打星，并让爆击手有办法三回合集星兼40%爆伤。布姊可换高宝具枪赖光，改为加ATK和红卡buff，其宝具供星用。职阶相克关系，玛尔大一定会被轰下场
+
+T2: 玛尔大换凯隆，凯隆技二技三给主攻手放完以后换泳装BB。泳装BB除了技三以外，技二也得开，以防被信长连续爆击猝死。这里要凑到主攻手的BAB三张卡，三连打掉第二条血。这里选择给主攻手装备解弱体刻印(放在B卡)以及杀生院刻印对秩序特攻(放在B卡)
+
+T3: 开战斗服麻痹信长避免猝死，继续BABEx爆击。这里使用杀生院技三，其中一个特性「弱体耐性提升50%」，配上BB刻印的弱体耐性提升10%(放在A卡)，可赌次回合能否挡掉50%的降攻debuff
+
+T4: BNBEx收尾
+[url=https://www.bilibili.com/video/av50074363]Bilibili[/url]
+[url=https://youtu.be/F7ZbC-9gtc0]youtube[/url]
+[url=https://www.bilibili.com/video/av50552754/?p=7]其他完整视频[/url]
+[/quote]
